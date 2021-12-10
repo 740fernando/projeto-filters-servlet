@@ -1,0 +1,12 @@
+URI: /Filter/ProcessarServlet:207ms
+URI: /Filter/ProcessarServlet:210ms
+URI: /Filter/ProcessarServlet:211ms
+URI: /Filter/ProcessarServlet:212ms
+URI: /Filter/login:0ms
+URI: /Filter/login:1ms
+URI: /Filter/login.jsp:440ms
+URI: /Filter/login.jsp:440ms
+URI: /Filter/teste.jsp:117ms
+URI: /Filter/teste.jsp:117ms
+URI: /Filter/teste.jsp:3ms
+URI: /Filter/teste.jsp:4ms
